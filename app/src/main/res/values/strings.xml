@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Panormus</string>
+
+
+    <string name="text_prova">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+
+    <string name="suggestion_header">I want to hear from you!</string>
+    <string name="suggestion_body">Did you like (or didn\'t) the app? \nFeel free to send me any suggestion, comment, or idea. </string>
+    <string name="suggestion_question">Would you like to send me a message now?</string>
+    <string name="toast">Thanks for using this App!</string>
+    <string name="subject">Suggestions for Panormus</string>
+    <string name="welcome">Welcome to Palermo!</string>
+
+    <string name="main"><b>Capital of the Mediterranean Sea</b>, it was founded about 3000 years ago by the Phoenicians. \n<b><i>Panormus</i></b> is the name given to the city by Greeks and Romans, and it means \"all port\".
+                        \nThanks to his position, between two rivers and the sea, Palermo has always enjoyed from the natural richness of the land as well as the one coming from the water.
+                        \nSince the ancient era, Palermo has been visited and populated by some of the most important cultures of the known world, and walking through the city today is like traveling through time, from the prehistorical paintings in the caves
+                        of the <i>Addaura</i> to the arab-norman <i>Palazzo Reale</i>, right until the Neoclassic and modern buildings of <i>Via Roma</i>.
+                        \nThere\'s a lot to see and many things you shouldn\'t miss, so in this app I will suggest you 5 things you have to do if you\'re visiting Palermo and want to really know the heart of the city.
+
+    </string>
+
+    <string name="have_fun">Have fun and enjoy your stay!</string>
+    <string name="utility">Useful links</string>
+    <string name="next">Next</string>
+    <string name="cassaro">Take a walk down the Cassaro</string>
+    <string name="cassaro_body">It\'s the most ancient street of the city, and its name comes from the arabic <i>al Qasr</i>, which means \"fortified\" since it was the main street inside the city walls
+                                (today it\'s called Corso Vittorio Emanuele, in honor of the famous Italian king).
+                                \nIt\'s a straight line that connects <i>Porta Nuova</i> to <i>Porta Felice</i> and if walked from south to north, it connects the city to the sea.
+                                \nThe name Cassaro also extends to all the historical city centre, which is surrounded by the ancent city walls and contains all the most important building of the political and clerical power, along with some of the most beautiful
+                                churches in all Europe, and many important commercial activities.
+    </string>
+
+    <string name="cassaro_body2">Take a whole day to explore each street and alley, visit every church and buy typical artisanal products from the colorful shops, and don\'t forget to stop by <i>Quattro Canti</i>, the famous crossing between Corso Vittorio
+                                and via Maqueda.</string>
+
+    <string name="cassaro_direction">Get directions</string>
+
+    <string name="cathedral">Explore the Cathedral</string>
+    <string name="cathedral_body">One of the many jewels of Palermo, since 2015 <i>la Cattedrale</i> is UNESCO World Heritage, and the most visited monument of the city.
+                                It was built during the Middle Age, after the Christians conquered back the city from the Arabs, in the area where once stood a Mosque and a Byzantine <i>basilica</i> before that.
+                                \nThe Cathedral is the most evident example of the Arab-Norman style, a mix of the northern european taste of the Royal families and the excellent building skills of the Arabs who worked at their courts.
+                                \nThe interior has undergone many renovations during the ages, of which the most notable ones are those during the 18th century, who gave the Cathedral its current look.
+    </string>
+
+    <string name="cathedral_body2">Aside  from the many chapels, each dedicated to a different saint, the most important <i>pieces</i> inside of it are the tombs of the Royals who ruled over Palermo and Sicily, among which is Federico II, the King
+                                responsible for making this city the cultural center of the Holy Roman Empire.
+                                \nWorth mentioning are also the chapel and painting dedicated to <i>Santa Rosalia</i>, the patron saint of the city, and the underground Crypts where some of the most important bishops and cardinals were buried.</string>
+
+    <string name="cathedral_info">More info</string>
+
+    <string name="mondello">Go for a swim</string>
+
+    <string name="mondello_body">I hope you brought your swimming suit, because you definitely have to try the Sicilian sea!
+                                \nAmong the many places where Palermitans go to swim, I will suggest you two location, which are different one another, and suitable for different people.
+                                \nThe first one is Mondello, a borough located between Mount Gallo and Mount Pellegrino: it\'s the beach where most people go, especially the young ones. It\'s also where the wealthiest citizens built their magnificent villas
+                                and gardens in <i>Liberty</i> style during the beginning of 20th century.
+    </string>
+
+    <string name="mondello_body2">The other one is Sferracavallo, a fishing village just 10 minutes away from the city.
+                                \nThis is a more quiet location, and it retained the look and feel of the typical sicilian villages you could find on old postcards.
+                                \nProtip: if you go there, don\'t forget to taste the local seafood!
+    </string>
+
+    <string name="dir_mondello">Get directions for Mondello</string>
+    <string name="dir_sferra">Get directions for Sferracavallo</string>
+
+    <string name="market">Discover the historical markets</string>
+
+    <string name="market_body">You can\'t say you have seen Palermo if you don\'t take a walk inside its historical markets.
+                                They are the beating heart of the city and the living example of the warmth of Sicilians.
+                                \nCreated during different times in history, these crowded and colorful places show us what Palermo must have been like during its golden age, when it was the commercial hub of the whole Mediterranean Sea.
+                                \nToday are mainly populated by food vendors, but in some of them you can easily find clothes and vintage stuff at cheap prices.
+                                \nThe most important ones are <i>la Vucciria</i> (which takes its name from butchery, since it was the main place to sell and buy meat), <i>il Capo</i>, and <i>Ballarò</i> (which name comes from and Indian word, because it was
+                                mainly a spice market).
+
+    </string>
+    <string name="dir_vucciria">Get directions for la Vucciria</string>
+    <string name="dir_capo">Get directions for il Capo</string>
+    <string name="dir_balla">Get directions for Ballarò</string>
+    <string name="eat">Eat and drink!</string>
+    <string name="eat_body">Wherever you are, at any hour of the day, there\'s always a bakery, a street vendor or a <i>pizzeria</i> open and serving food.
+                            \nThere are no tips or suggestions when it comes to eating, just look around, get in the store and ask for their specialty... there is no bad food in Palermo!
+                            \nWhether it\'s a full meal in a restaurant, or the greasy, fragrant street food, you will never experience something like that anywhere else.
+                            \nAnd of course, don\'t forget the amazing wines and the desserts!
+
+    </string>
+
+
+    <string name="emerg_call">Emergency number</string>
+    <string name="call">Call</string>
+    <string name="info_transp">Info about transportation</string>
+    <string name="go_to">Go to official site</string>
+    <string name="yes">Yes!</string>
+    <string name="no">No, thanks!</string>
+    <string name="edit_name">Your name</string>
+    <string name="edit_mess">Write your message here...</string>
+    <string name="send_butt">Send</string>
+
+
+</resources>
